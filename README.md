@@ -52,7 +52,7 @@ pip install pandas networkx statsmodels
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/yourusername/SI-507-Final-project.git
+git clone https://github.com/CraZY718/SI-507-Final-project.git
 ```
 
 2. **Navigate to the project folder**
