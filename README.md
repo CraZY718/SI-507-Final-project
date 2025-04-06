@@ -96,13 +96,14 @@ Options:
 ## Required Python Packages
 
 - `pandas`
+- `numpy`
 - `networkx`
 - `statsmodels`
 
 Install via:
 
 ```bash
-pip install pandas networkx statsmodels
+pip install pandas numpy networkx statsmodels
 ```
 
 ---
