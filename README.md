@@ -1,10 +1,10 @@
-# StockFactorNet
+# StockFactorNet Tool
 
 ---
 
 ## Project Overview
 
-**StockFactorNet** evaluates stock return behavior based on 9 key financial factors, they include **Momentum**, **Volatility**, **Liquidity**, **Amplitude**, **Dividend Yield** , **Gap return**, **Trading activity**,**Market correlation** and **Target return as dependent variable**.The project constructs a directed graph where factors are linked to stocks based on the statistical significance of their predictive power (via linear regression). This enables users to query and interpret stock-factor relationships interactively via a command-line interface (CLI).
+**StockFactorNet Tool** evaluates stock return behavior based on 9 key financial factors, they include **Momentum**, **Volatility**, **Liquidity**, **Amplitude**, **Dividend Yield** , **Gap return**, **Trading activity**,**Market correlation** and **Target return as dependent variable**.The project constructs a directed graph where factors are linked to stocks based on the statistical significance of their predictive power (via linear regression). This enables users to query and interpret stock-factor relationships interactively via a command-line interface (CLI).
 
 ---
 
