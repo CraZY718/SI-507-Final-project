@@ -1,10 +1,10 @@
-# Stock-Factor Network Analysis Tool
+# StockFactorNet
 
 ---
 
 ## Project Overview
 
-The **Stock-Factor Network Analysis Tool** evaluates stock return behavior based on key financial factors, such as **Momentum**, **Volatility**, **Liquidity**, **Gap Return**, **Dividend Yield**, and **Market Correlation**. The project constructs a directed graph where factors are linked to stocks based on the statistical significance of their predictive power (via linear regression). This enables users to query and interpret stock-factor relationships interactively via a command-line interface (CLI).
+**StockFactorNet** evaluates stock return behavior based on 9 key financial factors, they include **Momentum**, **Volatility**, **Liquidity**, **Amplitude**, **Dividend Yield** , **Gap return**, **Trading activity**,**Market correlation** and **Target return as dependent variable**.The project constructs a directed graph where factors are linked to stocks based on the statistical significance of their predictive power (via linear regression). This enables users to query and interpret stock-factor relationships interactively via a command-line interface (CLI).
 
 ---
 
@@ -32,9 +32,10 @@ The **Stock-Factor Network Analysis Tool** evaluates stock return behavior based
 
 ### Prerequisites
 
-- Python 3.8 or above
+- Python 3.11 or above
 - Dependencies:
   - `pandas`
+  - `numpy`
   - `networkx`
   - `statsmodels`
 
